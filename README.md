@@ -14,9 +14,8 @@
 ---
 
 ##  Mis proyectos destacados  
-- **Customer Churn Prediction** — predicción de abandono + dashboard  
-- **Clasificador de noticias** — NLP para detectar fake news  
-- **Análisis de datos de tránsito** — EDA + visualización geoespacial
+- **Industria-Cinematogr-fica-Estadounidense-1990---2020-** — Este proyecto se enfoca en el análisis y exploración de datos de la industria cinematográfica  
+- **disaster-tweet-classification** — Construir y evaluar varios modelos de Machine Learning y Deep Learning 
 
 ---
 
