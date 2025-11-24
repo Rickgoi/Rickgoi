@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**Rickgoi/Rickgoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  Hola, soy Rickgoi
 
-Here are some ideas to get you started:
+**Data Scientist en formación** | Apasionado por transformar datos en decisiones.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Lo que estoy construyendo  
+- Modelos de Machine Learning para problemas reales  
+- Dashboards interactivos con Streamlit  
+- API + deploy con FastAPI y Docker  
+- Proyectos de NLP y análisis exploratorio
+
+---
+
+##  Mis proyectos destacados  
+- **Customer Churn Prediction** — predicción de abandono + dashboard  
+- **Clasificador de noticias** — NLP para detectar fake news  
+- **Análisis de datos de tránsito** — EDA + visualización geoespacial
+
+---
+
+##  Tecnologías que uso  
+Python | Pandas | NumPy | Scikit-Learn | SQL | Streamlit | FastAPI | Docker
+
+---
+
+##  Educación  
+- 3 cursos completados de Ciencia de Datos  
+- Aprendiendendo MLOps, Deep Learning y deploy avanzado
+
+---
+
+##  Sobre mí  
+- Vivo en Quilmes, Buenos Aires  
+- Interés en proyectos fintech, telecom y educación  
+- Fan de aprender, documentales y jugar con datos abiertos
+
+---
+
+##  Cómo contactarme  
+- LinkedIn: https://www.linkedin.com/in/ricardo-goitia-659a5895/
+- Email: goitiaricardo@gmail.com
+
+
