@@ -18,13 +18,13 @@
 ---
 
 ##  Tecnologías que uso  
-Python | Pandas | NumPy | Scikit-Learn | SQL 
+Python | Pandas | NumPy | Scikit-Learn 
 ---
 
 ##  Educación  
 - Arquitecto
 - 3 cursos completados de Ciencia de Datos  
-- Power BI. Tableau, R 
+- Aprendiendo Power BI, Tableau, SQL
 
 ---
 
