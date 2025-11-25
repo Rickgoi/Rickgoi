@@ -22,6 +22,7 @@ Python | Pandas | NumPy | Scikit-Learn | SQL
 ---
 
 ##  Educación  
+- Arquitecto
 - 3 cursos completados de Ciencia de Datos  
 - Power BI. Tableau, R 
 
