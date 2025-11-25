@@ -6,9 +6,7 @@
 ---
 
 ## Lo que estoy construyendo  
-- Modelos de Machine Learning para problemas reales  
-- Dashboards interactivos con Streamlit  
-- API + deploy con FastAPI y Docker  
+- Modelos de Machine Learning para problemas reales    
 - Proyectos de NLP y análisis exploratorio
 
 ---
@@ -20,13 +18,12 @@
 ---
 
 ##  Tecnologías que uso  
-Python | Pandas | NumPy | Scikit-Learn | SQL | Streamlit | FastAPI | Docker
-
+Python | Pandas | NumPy | Scikit-Learn | SQL 
 ---
 
 ##  Educación  
 - 3 cursos completados de Ciencia de Datos  
-- Aprendiendendo MLOps, Deep Learning y deploy avanzado
+- Power BI. Tableau, R 
 
 ---
 
